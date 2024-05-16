@@ -67,8 +67,8 @@ router.post("/login",async function(request,response){
         let transporter = nodemailer.createTransport({
           service: "gmail",
           host: "smtp.gmail.com",
-          port: 993,
-          secure: false, // true for 465, false for other ports
+          email_port: 8090,
+          secure: true, // true for 465, false for other ports
           auth: {
             user: process.env.EMAIL, // generated ethereal user
             pass: process.env.PASSWORD, // generated ethereal password
