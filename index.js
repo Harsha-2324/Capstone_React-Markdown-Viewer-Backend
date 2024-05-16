@@ -29,7 +29,7 @@ async function startServer() {
       res.send("Markdown App is Working Fine!");
     });
 
-    app.listen(PORT, () => console.log(`The Server started in: ${PORT} ✨✨`));
+    app.listen(PORT, () => console.log(`The Server started in Port: ${PORT} ✨✨`));
   } catch (error) {
     console.error("Error connecting to MongoDB:", error);
   }
