@@ -1,0 +1,3 @@
+node_modules
+.env
+MONGODB_URI=mongodb+srv://gokulasindhuja:ufzZy87b3gYuYSKG@cluster0.x2yxosx.mongodb.net/gokulasindhuja
