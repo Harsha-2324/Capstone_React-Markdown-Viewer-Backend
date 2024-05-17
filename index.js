@@ -26,7 +26,7 @@ async function startServer() {
     app.use('/users', userRouter);
 
     app.get("/", function (req, res) {
-      res.send("Markdown App is Working Fine!");
+      res.send("Hello world");
     });
 
     app.listen(PORT, () => console.log(`The Server started in Port: ${PORT} ✨✨`));
