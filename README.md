@@ -26,7 +26,7 @@ Watch a quick video demonstration of My Markdown Viewer Web Application:
   
 
 
-https://github.com/Harsha-2324/Capstone_Markdown_Viewer_FrontEnd/assets/24225236/5ce5cac4-4be3-46ef-821e-43ab0da7f4ca
+https://github.com/Harsha-2324/Capstone_React-Markdown-Viewer-Frontend/assets/24225236/bdb9c703-d522-4603-9ff6-8c18c2c8788f
 
 
 
@@ -40,21 +40,7 @@ https://github.com/Harsha-2324/Capstone_Markdown_Viewer_FrontEnd/assets/24225236
 
 
 
-https://github.com/Harsha-2324/Capstone_Markdown_Viewer_FrontEnd/assets/24225236/44b10a4e-832a-416c-aa7c-79582e864dd6
-
-
-
-
-## **Video: 3 Featuring** 🎥
-   - `Forgot Password`: Mail Sent to Registered User's Mail ID using SMTP Protocol
-   - `JWT Token Generation`: For Secure user authentication
-   - `Reset Password`: PUT Data to MongoDB Database
-   - `Login`: using New Password
-   - `Markdown File Create`: You can create the Markdown File.
-
-
-
-https://github.com/Harsha-2324/Capstone_Markdown_Viewer_FrontEnd/assets/24225236/c4dbeb82-a50f-43a9-adab-b02673cc46c2
+https://github.com/Harsha-2324/Capstone_React-Markdown-Viewer-Frontend/assets/24225236/2f345760-abec-4f93-8914-e3047805ca68
 
 
 
